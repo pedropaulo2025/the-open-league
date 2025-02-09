@@ -58,7 +58,7 @@ and add metrics you need. The full list of supported metrics is [here](./models/
 
 To run metrics calculation one needs to use existing [SeasonConfig](./seasons) and configured backend.
 In general backends require some params and resources preconfigured (like DB connection).
-Simple example of running different backends is provided in [test_runnger.py](./test_runner.py).
+Simple example of running different backends is provided in [test_runnger.py](./test-runner.py).
 
 ### Re:doubt backend
 
